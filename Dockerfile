@@ -7,4 +7,5 @@ COPY src/index.html /d/cicd/dummy
 EXPSOE 80
 CMD ["nginx", "-g", "daemon off;"]
 #New branch has been created
+# Now staging branch added
 
